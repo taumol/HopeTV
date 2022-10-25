@@ -1,6 +1,5 @@
 {
     "sites":[
-{"key":"暖光影视","name":"暖光影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
 {"key":"爬虫|快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"爬虫|视界影视","name":"视界影视","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"爬虫|小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -8,6 +7,7 @@
 {"key":"爬虫|厂长资源","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"爬虫|酷云七七","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://download.kstore.space/download/3376/77.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739"},
 {"key":"官方|360影视" ,"name":"360影视" ,"type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"暖光影视","name":"暖光影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
 
 {"key":"官方|奇异视频","name":"奇异视频","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"官方|腾讯视频","name":"腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
