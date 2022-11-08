@@ -61,7 +61,7 @@
 {"key":"云海官采","name":"云海官采(官)","type":1,"api":"http://101.34.7.151:600/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"忆梦","name":"忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"木子看剧","name":"木子看剧(官)","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"小猫咪","name":"小猫咪(官)","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"小猫咪(官)","name":"小猫咪(官)","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"冠军资源","name":"冠军资源(切)","type":1,"api":"https://www.cmpzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"TOM资源","name":"TOM资源(切)","type":1,"api":"https://api.tomcaiji.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"卧龙资源","name":"卧龙资源(切)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -138,9 +138,9 @@
 {"key": "小傻瓜","name":"小傻瓜","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.iqiq.io/taumol/HopeTV/main/XB/小傻瓜.json"},
 {"key": "星空影视","name":"星空影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.iqiq.io/taumol/HopeTV/main/XB/星空影视.json"},
 {"key": "炫猫影视","name":"炫猫影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.iqiq.io/taumol/HopeTV/main/XB/炫猫影视.json"},
-{"key": "鸭奈飞","name":"鸭奈飞","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.iqiq.io/taumol/HopeTV/main/XB/鸭奈飞.json"},
+{"key": "鸭奈飞2","name":"鸭奈飞2","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.iqiq.io/taumol/HopeTV/main/XB/鸭奈飞.json"},
 {"key": "影视之光","name":"影视之光","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.iqiq.io/taumol/HopeTV/main/XB/影视之光.json"},
-{"key": "在线之家","name":"在线之家","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.iqiq.io/taumol/HopeTV/main/XB/在线之家.json"},
+{"key": "在线之家2","name":"在线之家2","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.iqiq.io/taumol/HopeTV/main/XB/在线之家.json"},
 {"key": "周末电影","name":"周末电影","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.iqiq.io/taumol/HopeTV/main/XB/周末电影.json"}
 ],
 "parses":[
