@@ -143,9 +143,8 @@
     {"key": "在线之家2","name":"在线之家2","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.iqiq.io/taumol/HopeTV/main/XB/在线之家.json"},
 
 
-    {"key": "csp_XYQBiu_聚合短视频","name":"🍀聚合短视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/taumol/HopeTV/main/WA/聚合短视频.json","spider":"http://52bsj.vip:81/api/v3/file/get/54460/classes1003.dex?sign=JG97AwbdEUL7mIum774NczmwLdyKLghsxLMqmztiCyQ%3D%3A0"},
-    {"key": "csp_XYQBiu_凌云视频国内","name": "🍀凌云国内(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/taumol/HopeTV/main/WA/凌云影视.json"},
-    {"key":"t4public","name":"👒T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://神器每日推送.tk/jar;md5;3550969fb9a34fa1136d98c3e33f03a1"},
+
+    {"key": "csp_XYQBiu_凌云视频国内","name": "🍀凌云影视(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.iqiq.io/taumol/HopeTV/main/WA/凌云影视.json"},
     {"key":"csp_Yj1211","name": "📽️网红直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "PS","name": "🐼PS教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/taumol/HopeTV/main/WA/PS教程.json","spider":"https://raw.iqiq.io/taumol/HopeTV/main/WA/wuai0723.jar;md5;226db2fc833312b73b0bf57c7dd41484"},
     {"key": "外语","name": "🎗️学外语","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/taumol/HopeTV/main/WA/学外语.json","spider":"https://raw.iqiq.io/taumol/HopeTV/main/WA/wuai0723.jar;md5;226db2fc833312b73b0bf57c7dd41484"},
