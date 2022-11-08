@@ -3,7 +3,7 @@
     "ua": "",
     "homeUrl": "http://www.jrskan.com/",
     "cateManual": {
-        "吾爱陪你看球": "1"
+        "陪你看球": "1"
     },
     "homeVodNode": "//ul[@data-stype='zqlq']",
     "homeVodName": "concat(/li[@class='lab_time']/text(),'-',/li[@class='lab_events']/span/text())",
