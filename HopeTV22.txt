@@ -8,6 +8,7 @@
     
     
 
+    {"key": "csp_套娃","name": "套娃规则","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.iqiq.io/taumol/HopeTV/main/WA/套娃规则.json"},
 
 
     {"key": "csp_XYQBiu_凌云视频国内","name": "🍀凌云影视(XYQ)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.iqiq.io/taumol/HopeTV/main/WA/凌云影视.json"},
