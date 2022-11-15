@@ -25,7 +25,7 @@
     "cateVodId": "/@href",
     "cateVodIdR": "/sv/(\\w+).html",
     "cateVodImg": "/img/@data-src",
-    "cateVodMark": "/span",
+    "cateVodMark": "/span[@class='bottom2']/text()",
     "dtUrl": "https://www.lingyun.in/sv/{vid}.html",
     "dtNode": "//body",
     "dtName": "//div[contains(@class,'li-bottom')]/h1/text()",
