@@ -53,7 +53,7 @@
     "scVodName": "/dl//strong/a/text()",
     "scVodId": "/dl//strong/a//@href",
     "scVodIdR": "/sv/(\\w+).html",
-    "scVodImg": "/dl/dt/a/img//@data-src",
+    "scVodImg": "/dl/dt/a/img/@data-src",
     "scVodMark": "/span[2]/text()",
     "filter": {
         "1": [
