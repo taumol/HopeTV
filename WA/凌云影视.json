@@ -1,4 +1,6 @@
 {
+    "title": "凌云影视",
+    "author": "公众号：厚朴小世界",
     "ua": "",
     "homeUrl": "https://www.lingyun.in/",
     "dcPlayUrl": "true",
@@ -8,7 +10,7 @@
         "综艺": "3",
         "动漫": "4"
     },
-    "homeVodNode": "//div[contains(@class,'li-img cover')]/a",
+    "homeVodNode": "//div[contains(@class,'wrap')]//span[@class='bottom']",
     "homeVodName": "/@title",
     "homeVodNameR": "",
     "homeVodId": "/@href",
@@ -18,7 +20,7 @@
     "homeVodMark": "/span[2]/text()",
     "homeVodMarkR": "",
     "cateUrl": "https://www.lingyun.in/list/{cateId}-大陆-------{catePg}---{year}.html[firstPage=https://www.lingyun.in/list/{cateId}-大陆----------{year}.html]",
-    "cateVodNode": "//div[contains(@class,'li-img')]/a",
+    "cateVodNode": "//div[contains(@class,'li-img')]/a/img",
     "cateVodName": "/@title",
     "cateVodId": "/@href",
     "cateVodIdR": "/sv/(\\w+).html",
@@ -28,7 +30,7 @@
     "dtNode": "//body",
     "dtName": "//div[contains(@class,'li-bottom')]/h1/text()",
     "dtNameR": "",
-    "dtImg": "//a[contains(@class,'pic')]/img/@data-src",
+    "dtImg": "//a[contains(@class,'li-img cover')]/img/@data-src",
     "dtImgR": "",
     "dtCate": "//div[contains(@class,'li-bottom')]/p[1]/text()",
     "dtCateR": "",
