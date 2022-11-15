@@ -51,7 +51,7 @@
     "searchUrl": "https://www.lingyun.in/search.html?wd={wd}&submit=",
     "scVodNode": "//div[contains(@class,'sr_lists')]",
     "scVodName": "/dl//strong/a/text()",
-    "scVodId": "/dl//strong/a//@href",
+    "scVodId": "/dl//strong/a/@href",
     "scVodIdR": "/sv/(\\w+).html",
     "scVodImg": "/dl/dt/a/img/@data-src",
     "scVodMark": "/span[2]/text()",
