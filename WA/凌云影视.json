@@ -47,14 +47,14 @@
     "dtDesc": "//div[contains(@class,'movie-introduce')]/p[2]/text()",
     "dtDescR": "",
     // 播放源节点
-    "dtFromNode": "//ul[contains(@class,'player ckp')]",
+    "dtFromNode": "//ul[contains(@class,'py-tabs')]/li",
     // 播放源名称
-    "dtFromName": "/li/text()",
+    "dtFromName": "/text()",
     "dtFromNameR": "",
     // 播放列表节点
-    "dtUrlNode": "//ul[contains(@class,'player ckp')]",
+    "dtUrlNode": "//ul[contains(@class,'player ckp')]/li",
     // 播放地址节点
-    "dtUrlSubNode": "/li/a",
+    "dtUrlSubNode": "/a",
     // 播放地址
     "dtUrlId": "/@href",
     "dtUrlIdR": "/play/(\\S+).html",
