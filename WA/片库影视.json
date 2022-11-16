@@ -12,7 +12,7 @@
     "homeVodNameR": "",
     // 首页推荐视频的id
     "homeVodId": "/@href",
-    "homeVodIdR": "/sv/(\\w+).html",
+    "homeVodIdR": "/vt/(\\w+).html",
     "homeVodImg": "//@data-src",
     "homeVodImgR": "",
     "homeVodMark": "/span[2]/text()",
@@ -23,7 +23,7 @@
     "cateVodNode": "//div[contains(@class,'li-img')]/a",
     "cateVodName": "/@title",
     "cateVodId": "/@href",
-    "cateVodIdR": "/sv/(\\w+).html",
+    "cateVodIdR": "/vt/(\\w+).html",
     "cateVodImg": "/img/@data-src",
     "cateVodMark": "/span[@class='bottom2']/text()",
     //视频
@@ -61,7 +61,7 @@
     "scVodNode": "//div[contains(@class,'sr_lists')]",
     "scVodName": "/dl/dt/a/img/@alt",
     "scVodId": "/dl/dt/a/@href",
-    "scVodIdR": "/sv/(\\w+).html",
+    "scVodIdR": "/mv/(\\w+).html",
     "scVodImg": "/dl/dt/a/img/@data-src",
     "scVodMark": "/span[2]/text()",
     "filter": {
