@@ -12,8 +12,8 @@
     "homeVodNameR": "",
     // 首页推荐视频的id
     "homeVodId": "/@href",
-    "homeVodIdR": "/vt/(\\w+).html",
-    "homeVodImg": "//@data-src",
+    "homeVodIdR": "/mv/(\\w+).html",
+    "homeVodImg": "//@src",
     "homeVodImgR": "",
     "homeVodMark": "/span[2]/text()",
     "homeVodMarkR": "",
