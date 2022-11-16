@@ -7,7 +7,7 @@
     // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
     "cateManual": {},
     // 首页推荐视频的节点
-    "homeVodNode": "//div[contains(@class,'li-img cover')]/a",
+    "homeVodNode": "//div[contains(@class,'li-img')]/a",
     "homeVodName": "/@title",
     "homeVodNameR": "",
     // 首页推荐视频的id
