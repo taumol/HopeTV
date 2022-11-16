@@ -125,7 +125,9 @@
 {"key": "如如影视","name":"如如影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.iqiq.io/taumol/HopeTV/main/XB/如如影视.json"},
 {"key": "骚火电影","name":"骚火电影","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.iqiq.io/taumol/HopeTV/main/XB/骚火电影.json"},
 {"key": "手机看剧","name":"手机看剧","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.iqiq.io/taumol/HopeTV/main/XB/手机看剧.json"},
-{"key": "思乐影视","name":"思乐影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.iqiq.io/taumol/HopeTV/main/XB/思乐影视.json"},
+{"key": "csp_XYQBiu_片库视频","name": "片库影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.iqiq.io/taumol/HopeTV/main/WA/片库影视.json"},
+{"key": "csp_XYQBiu_凌云视频国内","name": "🍀凌云影视(XYQ)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.iqiq.io/taumol/HopeTV/main/WA/凌云影视.json"},
+    
 {"key": "天空资源","name":"天空资源","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.iqiq.io/taumol/HopeTV/main/XB/天空资源.json"},
 {"key": "完美看看影视","name":"完美看看影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.iqiq.io/taumol/HopeTV/main/XB/完美看看影视.json"},
 {"key": "维奇动漫","name":"维奇动漫","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.iqiq.io/taumol/HopeTV/main/XB/维奇动漫.json"},
