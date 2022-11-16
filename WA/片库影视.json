@@ -4,11 +4,9 @@
     "ua": "",
     "homeUrl": "https://www.pkmp4.com/",
     "dcPlayUrl": "true",
-    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
-    "cateManual": {},
     // 首页推荐视频的节点
     "homeVodNode": "//div[contains(@class,'li-img')]/a",
-    "homeVodName": "/@title",
+    "homeVodName": "/text()",
     "homeVodNameR": "",
     // 首页推荐视频的id
     "homeVodId": "/@href",
@@ -19,6 +17,8 @@
     "homeVodMarkR": "",
     //分类
     "cateUrl": "https://www.pkmp4.com/vt/{cateId}-大陆-------{catePg}---{year}.html[firstPage=https://www.pkmp4.com/vt/{cateId}-大陆----------{year}.html]",
+    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+    //"cateManual": {},
     //分类节点
     "cateVodNode": "//div[contains(@class,'li-img')]/a",
     "cateVodName": "/@title",
