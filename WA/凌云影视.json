@@ -4,29 +4,38 @@
     "ua": "",
     "homeUrl": "https://www.lingyun.in/",
     "dcPlayUrl": "true",
+        // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+
     "cateManual": {
         "电影": "1",
         "剧集": "2",
         "综艺": "3",
         "动漫": "4"
     },
-    "homeVodNode": "//div[contains(@class,'wrap')]//span[@class='bottom']",
+        // 首页推荐视频的节点
+
+    "homeVodNode": "//div[contains(@class,'li-img cover')]/a",
     "homeVodName": "/@title",
     "homeVodNameR": "",
+      // 首页推荐视频的id
     "homeVodId": "/@href",
     "homeVodIdR": "/sv/(\\w+).html",
     "homeVodImg": "//@data-src",
     "homeVodImgR": "",
     "homeVodMark": "/span[2]/text()",
     "homeVodMarkR": "",
+    //分类
     "cateUrl": "https://www.lingyun.in/list/{cateId}-大陆-------{catePg}---{year}.html[firstPage=https://www.lingyun.in/list/{cateId}-大陆----------{year}.html]",
+    //分类节点
     "cateVodNode": "//div[contains(@class,'li-img')]/a",
     "cateVodName": "/@title",
     "cateVodId": "/@href",
     "cateVodIdR": "/sv/(\\w+).html",
     "cateVodImg": "/img/@data-src",
     "cateVodMark": "/span[@class='bottom2']/text()",
+    //视频
     "dtUrl": "https://www.lingyun.in/sv/{vid}.html",
+    //视频节点
     "dtNode": "//body",
     "dtName": "//div[contains(@class,'main-')]/h1/text()",
     "dtNameR": "",
@@ -37,15 +46,22 @@
     "dtYear": "//div[contains(@class,'main-ui-meta')]/div[8]/text()",
     "dtDesc": "//div[contains(@class,'movie-introduce')]/p[2]/text()",
     "dtDescR": "",
+    // 播放源节点
     "dtFromNode": "//ul[contains(@class,'player ckp')]",
+    // 播放源名称
     "dtFromName": "/li/text()",
     "dtFromNameR": "",
+    // 播放列表节点
     "dtUrlNode": "//ul[contains(@class,'player ckp')]",
+    // 播放地址节点
     "dtUrlSubNode": "/li/a",
+    // 播放地址
     "dtUrlId": "/@href",
     "dtUrlIdR": "/play/(\\S+).html",
+    // 剧集名称
     "dtUrlName": "/text()",
     "dtUrlNameR": "",
+    // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
     "playUrl": "https://www.lingyun.in/play/{playUrl}.html",
     "playUa": "",
     "searchUrl": "https://www.lingyun.in/search.html?wd={wd}&submit=",
@@ -332,7 +348,8 @@
                     {
                         "n": "英语",
                         "v": "英语"
-                    },{
+                    },
+                    {
                         "n": "法语",
                         "v": "法语"
                     },
@@ -352,35 +369,43 @@
                         "n": "日语",
                         "v": "日语"
                     },
-                    
                     {
                         "n": "德语",
                         "v": "德语"
-                    },   {
+                    },
+                    {
                         "n": "泰语",
                         "v": "泰语"
-                    },   {
+                    },
+                    {
                         "n": "俄语",
                         "v": "俄语"
-                    },   {
+                    },
+                    {
                         "n": "丹麦语",
                         "v": "丹麦语"
-                    },   {
+                    },
+                    {
                         "n": "波兰语",
                         "v": "波兰语"
-                    },   {
+                    },
+                    {
                         "n": "瑞典语",
                         "v": "瑞典语"
-                    },   {
+                    },
+                    {
                         "n": "印地语",
                         "v": "印地语"
-                    },   {
+                    },
+                    {
                         "n": "挪威语",
                         "v": "挪威语"
-                    },  {
+                    },
+                    {
                         "n": "意大利语",
                         "v": "意大利语"
-                    },  {
+                    },
+                    {
                         "n": "西班牙语",
                         "v": "西班牙语"
                     },
@@ -1063,7 +1088,8 @@
                     {
                         "n": "全部",
                         "v": ""
-                    },                    {
+                    },
+                    {
                         "n": "选秀",
                         "v": "选秀"
                     },
