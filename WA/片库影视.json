@@ -5,7 +5,7 @@
     "homeUrl": "https://www.pkmp4.com/",
     "dcPlayUrl": "true",
     // 首页推荐视频的节点
-    "homeVodNode": "//div[contains(@class,'li-img')]/a",
+    "homeVodNode": "//div[contains(@class,'nav')]/ul/li[position()<6][1<position()]/a",
     "homeVodName": "/text()",
     "homeVodNameR": "",
     // 首页推荐视频的id
@@ -20,8 +20,8 @@
     // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
     //"cateManual": {},
     //分类节点
-    "cateVodNode": "//div[contains(@class,'li-img')]/a",
-    "cateVodName": "/@title",
+    "cateVodNode": "//div[contains(@class,'nav')]/ul/li[position()<6][1<position()]/a",
+    "cateVodName": "/text()",
     "cateVodId": "/@href",
     "cateVodIdR": "/vt/(\\w+).html",
     "cateVodImg": "/img/@data-src",
