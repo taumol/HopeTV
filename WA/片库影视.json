@@ -45,7 +45,7 @@
     "dtNameR": "",
     "dtImg": "//div[contains(@class,'img')]/img/@src",
     "dtImgR": "",
-    "dtCate": "//div[contains(@class,'main-ui-meta')]/div[5]/a",
+    "dtCate": "//div[contains(@class,'main-ui-meta')]/div[5]/a/text()",
     "dtCateR": "",
     "dtYear": "//div[contains(@class,'main-ui-meta')]/div[8]/text()",
     "dtDesc": "//div[contains(@class,'movie-introduce')]/p[2]/text()",
