@@ -43,7 +43,7 @@
     "dtNode": "//body",
     "dtName": "//div[contains(@class,'main-')]/h1/text()",
     "dtNameR": "",
-    "dtImg": "//div[contains(@class,'img cover')]/img/@data-src",
+    "dtImg": "//div[contains(@class,'img')]/img/@src",
     "dtImgR": "",
     "dtCate": "//div[contains(@class,'main-ui-meta')]/div[5]/a",
     "dtCateR": "",
@@ -73,7 +73,7 @@
     "scVodName": "/dl/dt/a/img/@alt",
     "scVodId": "/dl/dt/a/@href",
     "scVodIdR": "/mv/(\\w+).html",
-    "scVodImg": "/dl/dt/a/img/@data-src",
+    "scVodImg": "/dl/dt/a/img/@src",
     "scVodMark": "/span[2]/text()",
     "filter": {
         "1": [
