@@ -4,7 +4,7 @@
     "ua": "",
     "homeUrl": "https://www.pkmp4.com/",
     "dcPlayUrl": "true",
-    "cateManual": {},
+    // "cateManual": {},
     // 分类节点
     "cateNode": "//div[contains(@class,'nav')]/ul/li[position()<6][1<position()]/a",
     // "cateNode": "//ul[contains(@class,'navbar-nav')]/li/a[contains(@href, '.html') and not(contains(@href, '6'))]",
