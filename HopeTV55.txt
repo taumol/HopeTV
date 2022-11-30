@@ -176,7 +176,7 @@
     ////////////////////////////////
     {"key":"api.yinwoapi.com","name":"成人69","type":1,"api":"https://api.yinwoapi.com/api.php/provide/vod/","searchable":1,"filterable":1},
     {"key":"csp_biubiu_4K狗午夜版","name":"4K狗午夜版(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shuyuan.miaogongzi.net/shuyuan/1659584171.json"},
-    {"key":"csp_biubiu_香蕉视频","name":"香蕉视频(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shuyuan.miaogongzi.net/shuyuan/1659561867.json"}
+    {"key":"csp_biubiu_香蕉视频","name":"香蕉视频(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shuyuan.miaogongzi.net/shuyuan/1659561867.json"},
 ////////////////////////////////////////////
 {"key":"八戒资源","name":"八戒资源(切)","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"ASMR","name":"ASMR(优)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
