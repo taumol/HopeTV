@@ -5,7 +5,8 @@
     {"key":"爬虫|在线之家","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"爬虫|小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"爬虫|快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-    
+    {"key":"尘云影视","name":"☁尘云影视","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://v.i7yc.cn/api.php/v1.vod"},{"key":"csp_appysv2_佑尘云影视","name":"📺佑尘云影视(卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.i7yc.cn/api.php/v1.vod"},
+
     
 
     {"key": "csp_套娃","name": "套娃规则","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.iqiq.io/taumol/HopeTV/main/WA/套娃规则.json"},
