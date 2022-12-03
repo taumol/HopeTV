@@ -4,7 +4,7 @@
 {"key":"官方|360影视" ,"name":"360影视" ,"type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"爬虫|利奥视频","name":"🍒利奥视频(LIBVIO)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"爬虫|在线之家","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"爬虫|小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"爬虫|小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"爬虫|快看影视","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ddrk","name":"📺低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_555","name": "🍅555 影视","type": 3,"api": "csp_Dy555","searchable": 1,"quickSearch": 1,"filterable": 1},
