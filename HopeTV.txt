@@ -1,8 +1,8 @@
 {"sites":[
 {"key":"YQK_spide","name":"厚朴小世界（已失效）","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
-{"key":"YQK_spider","name":"请关注新的","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
+{"key":"YQK_spider","name":"请关注新公众号：","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 
-{"key": "js豆瓣1", "name": "🌈公众号：异次元小世界",  "type": 3, "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","ext": "http://alist.xn--z7x900a.love:63/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0}, 
+{"key": "js豆瓣1", "name": "异次元小世界",  "type": 3, "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","ext": "http://alist.xn--z7x900a.love:63/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0}, 
 
 {"key":"爬虫|小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"爬虫|快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
