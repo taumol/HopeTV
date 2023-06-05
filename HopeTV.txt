@@ -12,7 +12,7 @@
 {"key":"官方|360影视" ,"name":"360影视" ,"type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"爬虫|酷云七七","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://download.kstore.space/download/3376/77.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739"},
 {"key":"爬虫|在线之家","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-"key": "js豆瓣1", "name": "🌈免费接口，请勿贩售 公众号：吉祥茗",       "type": 3,            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",            "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js",            "searchable": 0,            "quickSearch": 0,            "filterable": 0        },
+{"key": "js豆瓣1", "name": "🌈免费接口，请勿贩售 公众号：吉祥茗",  "type": 3, "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","ext": "http://alist.xn--z7x900a.love:63/豆瓣.js","searchable": 0,            "quickSearch": 0,            "filterable": 0        },
 	 {"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},{            "key": "csp_appys_酷影",            "name": "🥠️酷影视",            "type": 3,            "api": "csp_AppYsV2",            "searchable": 1,            "quickSearch": 1,
             "filterable": 1,            "ext": "http://ys.realdou.cn/api.php/app/"        },
   {
