@@ -1,4 +1,5 @@
 {"sites":[
+{"key":"YQK_spider","name":"公众号：异次元小世界","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 {"key":"官方|360影视" ,"name":"360影视" ,"type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"爬虫|酷云七七","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://download.kstore.space/download/3376/77.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739"},
 {"key":"爬虫|利奥视频","name":"利奥视频","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
