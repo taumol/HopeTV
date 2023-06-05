@@ -12,20 +12,16 @@
 {"key":"官方|360影视" ,"name":"360影视" ,"type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"爬虫|酷云七七","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://download.kstore.space/download/3376/77.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739"},
 {"key":"爬虫|在线之家","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "js豆瓣1", "name": "🌈免费接口，请勿贩售 公众号：吉祥茗",  "type": 3, "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","ext": "http://alist.xn--z7x900a.love:63/豆瓣.js","searchable": 0,            "quickSearch": 0,            "filterable": 0        },
-	 {"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},{            "key": "csp_appys_酷影",            "name": "🥠️酷影视",            "type": 3,            "api": "csp_AppYsV2",            "searchable": 1,            "quickSearch": 1,
-            "filterable": 1,            "ext": "http://ys.realdou.cn/api.php/app/"        },
-  {
-            "key": "Xinsj",            "name": "🎗新视觉",            "type": "3",            "api": "csp_Xinsj",            "searchable": "1",            "quickSearch": "1",            "filterable": "1", "ext": "https://www.6080yy2.com"
-        }, 
+{"key": "js豆瓣1", "name": "🌈免费接口，请勿贩售 公众号：吉祥茗",  "type": 3, "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","ext": "http://alist.xn--z7x900a.love:63/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0}, 
+{"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},
+{"key": "csp_appys_酷影","name": "🥠️酷影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ys.realdou.cn/api.php/app/"},
+{"key": "Xinsj","name": "🎗新视觉","type": "3","api": "csp_Xinsj","searchable": "1","quickSearch": "1","filterable": "1", "ext": "https://www.6080yy2.com"}, 
 {"key":"csp_panghu","name":"🐯胖虎影视","type":3,"api":"csp_Panghu","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKAPP","name":"👩‍👦一起看电视","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
-{ "key": "直播转点播",    "name": "🐼电视直播",    "type": 3,    "api": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e7%9b%b4%e6%92%ad%e8%bd%ac%e5%88%86%e7%ba%bf%e7%82%b9%e6%92%ad2.js", 
-   "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/%e7%9b%b4%e6%92%ad.js"   },
-
-    	{"key":"csp_SP360","name":" 🌈360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/5660/360.jar?sign=UvvtkxrYYz1CQrSzwD98cpU4wQwTatQcDYOTRQ8x3wU%3D%3A0"},	
-{            "key": "csp_AppTT",            "name": "🐰图图影视",            "type": 3,            "api": "csp_AppTT",            "searchable": 1,            "quickSearch": 1,            "filterable": 1,            "ext": "SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==",            "jar": "http://我不是.肥猫.love:63/Jar/panda230423.jar;md5;36C5A2F03CA68213DADBF4502A2F4174"
-        },
+{ "key": "直播转点播","name": "🐼电视直播","type": 3,"api": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e7%9b%b4%e6%92%ad%e8%bd%ac%e5%88%86%e7%ba%bf%e7%82%b9%e6%92%ad2.js","ext": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/%e7%9b%b4%e6%92%ad.js"},
+{"key":"csp_SP360","name":" 🌈360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/5660/360.jar?sign=UvvtkxrYYz1CQrSzwD98cpU4wQwTatQcDYOTRQ8x3wU%3D%3A0"},	
+{"key": "csp_AppTT","name": "🐰图图影视","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","jar": "http://我不是.肥猫.love:63/Jar/panda230423.jar;md5;36C5A2F03CA68213DADBF4502A2F4174"
+},
 {"key":"csp_Ddrk","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_BBB","name": "哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/taumol/HopeTV/main/XB/哔哩哔哩.json"},
 {"key":"csp_xpath_球迷直播","name":"球迷直播","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/taumol/HopeTV/main/xp/球迷直播.json"},
